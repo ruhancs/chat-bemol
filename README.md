@@ -5,9 +5,9 @@ Guide to run the application. This app was built with postgres, nestjs, typescri
 ## Initialize docker with the application
 
 ```bash
-$ dentro da pasta "bemol-desafio" abra o terminal e digite o comando: [chmod +x .docker/entrypoint.sh]
+$ dentro da pasta "chat-bemol" abra o terminal e digite o comando: [chmod +x .docker/entrypoint.sh]
 
-$ dentro da mesma pasta "bemol-desafio" digite o comando: [docker-compose up]
+$ dentro da mesma pasta "chat-bemol" digite o comando: [docker-compose up]
 
 $ espera a aplicaçao criar o DB, instalar os pacotes e inicializar, isso pode demorar alguns minutos
 
